@@ -1,3 +1,10 @@
 body {
     background-color:darkred;
+    text-align: center;
+}
+h1 {font-style: italic;
+    color: lemonchiffon;
+}
+h2 {
+    color: bisque;
 }
