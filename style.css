@@ -12,3 +12,8 @@ h2 {font-style: italic;
     font-weight:200;
     font-size:medium;
 }
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
